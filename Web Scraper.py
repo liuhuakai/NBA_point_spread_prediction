@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Tue Oct 16 20:51:38 2018
-
-@author: liuhangyu
-"""
 
 import requests
 from bs4 import BeautifulSoup

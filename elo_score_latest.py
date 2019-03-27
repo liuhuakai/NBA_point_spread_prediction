@@ -1,10 +1,3 @@
-# !/usr/bin/env python3
-# -*- coding: utf-8 -*-
-"""
-Created on Sat Oct 20 20:53:55 2018
-
-@author: liuhangyu
-"""
 import pandas as pd
 import re
 import seaborn as sns
